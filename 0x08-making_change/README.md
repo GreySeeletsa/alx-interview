@@ -1,4 +1,4 @@
-# 0x08-making_change
+## 0x08-making_change
 
 ## Concepts Needed:
 # Greedy Algorithms:
